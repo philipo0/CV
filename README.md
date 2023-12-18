@@ -2,6 +2,6 @@
 
 ### Education
 
-###Work Experience
+### Work Experience
 Data scientist @ Consulting firma
 - proyecto 1
