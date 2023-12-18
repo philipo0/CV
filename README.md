@@ -2,7 +2,7 @@
 
 ### Education
 
-- **MSc, Data Science**; University of Edinburgh; 2019-2020
+- **Ingeniería Comercial, Economía**; UNIVERSIDAD DIEGO PORTALES; 2018-2023
 - **BSc, Computer Science**; University of Edinburgh; 2015-2019
 - **BSc, Mathematics**; University of Edinburgh; 2015-2019
 
